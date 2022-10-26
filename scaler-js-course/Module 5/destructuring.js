@@ -3,9 +3,12 @@
 
 // particular variables to set a arrays
 
+
+// Destructuringn Arrays
 let arr = ["Hi", "I", "am", "Karthick"];
 
 // let a = arr[1] // I
 // let b = arr[2] // am
 
 let [a, b, c, d] = arr;
+console.log(c) 
