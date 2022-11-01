@@ -17,7 +17,7 @@ let transastionsDollor = transastions.map((amount) => {
 console.log(transastionsDollor);
 
 
-// forEach returning values
+// forEach returning only values
 let transastionsDollor1 = transastions.forEach((amount)=>{
     console.log((amount/inrtoDollor).toFixed(0));
 })
