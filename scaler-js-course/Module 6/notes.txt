@@ -1,4 +1,5 @@
 Key Features of Functional Programming
+
 1. Imperative and declarative way of writting code
 2. Pure functions and what are side effects?
 3. Higher order functions(map,filter,reduce,etc)
