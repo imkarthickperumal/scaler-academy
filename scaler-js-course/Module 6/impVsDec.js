@@ -15,5 +15,5 @@
 
 // Declarative way of writing code
 
-const checkForSqaure = (x) => (x*x %2===0 ? true : flase)
-console.log(checkForSqaure(4))
+const checkForSqaure = (x) => ((x * x) % 2 === 0 ? true : flase);
+console.log(checkForSqaure(4));
