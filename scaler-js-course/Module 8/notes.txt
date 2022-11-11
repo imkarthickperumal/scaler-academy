@@ -1,0 +1,8 @@
+Topics 
+1. What is Async Progreamming
+2. Callbacks(setTimeout, setInterval etc)
+3. Callback queue and the Event loop
+4. Promises
+5. async/await
+6. microtask queue
+7. Sequential and Parallel Execution of code
